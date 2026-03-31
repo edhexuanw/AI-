@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994381953161",
+    "project_id": "ai-core-health",
+    "storage_bucket": "ai-core-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994381953161:android:20a5d09503baa895256e58",
+        "android_client_info": {
+          "package_name": "com.my.ai_core_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrgNxW36TFqVeXgxEVHXSpn-I3Sm38Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
